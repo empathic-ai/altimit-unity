@@ -1,0 +1,26 @@
+{
+  "name": "com.altimit",
+  "displayName": "Altimit",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "unityRelease": "0f1",
+  "description": "Common utility classes for XR projects\nRefer to API documentation for details. Some particularly useful utilities include:\n▪ Geometry Utilities\n  ▪ Point of closest approach\n  ▪ Closest edge of a polygon\n  ▪ Check if point inside of polygon\n  ▪ Compute 2D convex hull\n▪ Collection pool\n▪ Math Utilities\n  ▪ Bounds extensions\n  ▪ Quaternion extensions\n▪ Editor GUI\n  ▪ Flags Property Drawer\n▪ Scriptable Settings (serialized project settings)\n▪ Conditional Compilation Utility\n▪ XR Origin Implementation",
+  "keywords": [
+    "altimit",
+    "vr",
+	"ar",
+    "augmented",
+    "reality",
+    "metaverse",
+    "networking"
+  ],
+  "dependencies": {
+	{
+		"com.unity.textmeshpro": "2.2"
+	}
+  },
+  "repository": {
+    "url": "https://github.com/meridian-xr/altimit-unity.git",
+    "type": "git"
+  }
+}
