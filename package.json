@@ -14,14 +14,6 @@
     "metaverse",
     "networking"
   ],
-  "dependencies": {
-	"com.unity.textmeshpro": "2.2",
-	"com.unity.webrtc": "2.4",
-	"com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.3.3",
-	"com.neuecc.messagepack": "https://github.com/neuecc/MessagePack-CSharp.git?path=src/MessagePack.UnityClient/Assets/Scripts/MessagePack#2.4.35",
-	"com.unity.uiextensions": "https://github.com/Unity-UI-Extensions/com.unity.uiextensions.git#2.2.7",
-	"com.unity.code-analysis": "0.1"
-  },
   "repository": {
     "url": "https://github.com/meridian-xr/altimit-unity.git",
     "type": "git"
