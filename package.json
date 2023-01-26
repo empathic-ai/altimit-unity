@@ -15,9 +15,7 @@
     "networking"
   ],
   "dependencies": {
-	{
-		"com.unity.textmeshpro": "2.2"
-	}
+    "com.unity.textmeshpro": "2.2"
   },
   "repository": {
     "url": "https://github.com/meridian-xr/altimit-unity.git",
