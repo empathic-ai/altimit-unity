@@ -16,8 +16,8 @@
   ],
   "dependencies": {
 	"com.unity.textmeshpro": "3.0.6",
-	"com.unity.webrtc": "3.0.0",
-	"com.unity.code-analysis": "0.1.2"
+	"com.unity.webrtc": "3.0.0-pre.4",
+	"com.unity.code-analysis": "0.1.2-preview"
   },
   "repository": {
     "url": "https://github.com/meridian-xr/altimit-unity.git",
